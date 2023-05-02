@@ -1,0 +1,10 @@
+a:link {
+    color: black;
+    size: 10px;
+    text-align: center;
+    align-items: center;
+    text-decoration: dotted;
+}
+ body {
+    background-color: rgb(150, 143, 143);
+ }
